@@ -1,0 +1,7 @@
+{
+  "name": "Volt Electronics",
+  "description": "Modern electronics store in Dubai offering top-tier tech, flagship gadgets, audio, laptops, and same-day UAE express delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
